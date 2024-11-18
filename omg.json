@@ -7,7 +7,7 @@
  {
       "name": "IPV",
       "type": 0,
-      "url": "http://xmbjm.fh4u.org/tv.txt",
+      "url": "./tv.txt",
       "playerType": 1
     }],
 
