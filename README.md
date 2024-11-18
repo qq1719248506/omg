@@ -4,11 +4,11 @@
 
 https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/xmbjm/omg/main/omg.json
 
-https://github.moeyy.xyz/https://github.com/xmbjm/omg/blob/main/omg.json
+https://github.moeyy.xyz/https://raw.githubusercontent.com/xmbjm/omg/main/omg.json
 
-https://gh.llkk.cc/https://github.com/xmbjm/omg/blob/main/omg.json
+https://gh.llkk.cc/https://raw.githubusercontent.com/xmbjm/omg/main/omg.json
 
-https://github.ednovas.xyz/https://github.com/xmbjm/omg/blob/main/omg.json
+https://github.ednovas.xyz/https://raw.githubusercontent.com/xmbjm/omg/main/omg.json
 
 # 拾光的小仓库
 # 自用随意拷贝
