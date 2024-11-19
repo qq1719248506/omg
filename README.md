@@ -2,6 +2,8 @@
 ①号坑https://xmbjm.github.io/
 ②号坑http://xmbjm.fh4u.org
 
+https://raw.githubusercontent.com/xmbjm/omg/main/omg.json
+
 https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/xmbjm/omg/main/omg.json
 
 https://github.moeyy.xyz/https://raw.githubusercontent.com/xmbjm/omg/main/omg.json
