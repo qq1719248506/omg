@@ -4,7 +4,7 @@
 
 https://raw.githubusercontent.com/xmbjm/omg/main/omg.json
 
-https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/xmbjm/omg/main/omg.json
+https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/xmbjm/omg/refs/heads/main/omg.json
 
 https://github.moeyy.xyz/https://raw.githubusercontent.com/xmbjm/omg/main/omg.json
 
