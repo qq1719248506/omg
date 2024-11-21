@@ -88,6 +88,17 @@
       "order_num": 0,
       "ext": "./lib/采集之王.js?type=url&params=../lib/采集静态.json"
     },
+{
+      "key": "hipy_js_采集皇后",
+      "name": "拾光☪采集皇后",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./lib/采集之王.js?type=url&params=./lib/采集静态.json"
+    },
     
     	{
 			"key": "青龙影视",
