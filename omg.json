@@ -746,8 +746,18 @@
       "filterable": 1,
       "ext": "./lib/Vidhub.json"
     },
+	      {
+      "key": "拾光☪4KTV",
+      "name": "拾光☪4KTV",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/4KTV.json"
+    },
     {
-      "key": "VIP影视",
+      "key": "拾光☪VIP影视",
       "name": "拾光☪VIP2K",
       "type": 3,
       "api": "csp_XPath",
