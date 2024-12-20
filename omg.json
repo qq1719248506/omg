@@ -14,7 +14,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "豆瓣热播请关注公众号：拾光趣乐屋",
+      "name": "豆瓣热播",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
@@ -3198,7 +3198,7 @@
     },
 {
       "key": "YY影视",
-      "name": "关注 拾光趣乐屋",
+      "name": "YY影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -3210,7 +3210,7 @@
         "图片": "data-original=\"&&\"",
         "标题": "title=\"&&\"",
         "链接": "href=\"&&\"",
-        "副标题": "拾光专享✨+module-item-note&&</div>",
+        "副标题": "专享✨+module-item-note&&</div>",
         "线路数组": "item tab-item&&</div>[排序:海湾资源>非凡播放>无尽资源]",
         "线路标题": "拾光✨+<span>&&</span>+【共+<small>&&</small>+集】",
         "播放数组": "module-play-list\"&&</div>",
